@@ -1,6 +1,13 @@
 # Skillable Community Course - Installation Storage Compute with Windows
 ## MCT Community contributions
 
-Hey MCT’s, this is intended to grow and make the community bigger. To support this hands-on-lab, we will need to make frequent updates to the course content to keep it current with the services used in the course. It is strongly recommended that MCTs access these materials and in turn, provide any additional constructive feedback which might help improve upon the quality of this course. Any MCT can submit bugs, changes, improvements, and ideas. Find a new feature before we have? Submit those ideas and suggestions! 
+Skillable Community Course Contributions
+This repository is for collaboration, and constructive feedback so we may continually grow, improve, and provide a better experience to learners and trainers. 
 
-**Disclaimer**: Skillable is not liable for any damages arising in contract, tort or otherwise from the use of or inability to use this course or any material contained in it, or from any action or decision taken as a result of using this course. This course offers links to other sites and courses thereby enabling you to leave this site and go directly to the linked location. Skillable is not responsible for the content of any linked site or any link within a linked site. Skillable is not responsible for any transmission received from any linked site. These links are provided to assist learners and the inclusion of a link does not imply that Skillable endorses or has approved the linked site.
+Skillable Community Courses use our modern challenge-centric instructional design model.  This means the live hands-on labs are at the forefront of this course allowing learners to learn while doing and provides trainers with the flexibility to address demonstrate the “need to know” information based on a class audience’s profile.  Each Skillable Community Course includes access additional reference materials and post class access to Skillable’s Challenge Labs to further promote and enable continuous learning. 
+We would like to hear from you
+If you have recommendations, changes, improvement, or additional resources/exercises that others in this community may find helpful, please share.
+
+Disclaimer
+Skillable is not responsible for the content of any linked site or any link within a linked site. Skillable is not responsible for any transmission received from any linked site. These links are provided to assist learners and the inclusion of a link does not imply that Skillable endorses or has approved the linked site.
+
